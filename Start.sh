@@ -1,1 +1,1 @@
-./start.sh
+Python3 bot.py
